@@ -1,4 +1,4 @@
-# my-super-web
+# my-super-website
 
 <!DOCTYPE html>
 <html>
